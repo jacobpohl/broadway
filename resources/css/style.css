@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-#menu {
+.menu a {
   font-size: 18px;
   color: white;
 }
@@ -32,13 +32,14 @@ p {
   font-size: 14px;
 }
 
-#designed {
+.designed {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 .copyright {
   font-size: 11px;
+  color: white;
 }
 
 #footer {
